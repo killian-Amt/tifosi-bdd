@@ -17,7 +17,7 @@ Le projet respecte le modèle conceptuel fourni dans le cahier des charges.
 
 ---
 
-## 🛠 Technologies utilisées
+## Technologies utilisées
 
 - MySQL
 - SQL
@@ -28,7 +28,7 @@ Le projet respecte le modèle conceptuel fourni dans le cahier des charges.
 
 ## Structure du projet
 tifosi/
-│
+
 ├── schema.sql → Script de création de la base et des tables
 ├── insert.sql → Script d’insertion des données de test
 ├── requete.sql → Script contenant les 10 requêtes de vérification
